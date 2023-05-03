@@ -1,2 +1,2 @@
 # PROYECTO1-STW
-replicación de página web de nike 
+replicación de página web de nike utilizando react
