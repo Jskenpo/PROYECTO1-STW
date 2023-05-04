@@ -14,25 +14,25 @@ function NavBar() {
                     <img id='converse' src={converse}></img>
                 </li>
                 <li class="nav-item">
-                    <a class="nav-link active" aria-current="page" href="#">Buscar tienda</a>
+                    <a id='textoA' class="nav-link active" aria-current="page" href="#">Buscar tienda</a>
                 </li>
                 <li id='barrita' class='nav-item'>
                     <p>|</p>
                 </li>
                 <li class="nav-item">
-                    <a class="nav-link" href="#">Ayuda</a>
+                    <a id='textoA'class="nav-link" href="#">Ayuda</a>
                 </li>
                 <li id='barrita' class='nav-item'>
                     <p>|</p>
                 </li>
                 <li class="nav-item">
-                    <a class="nav-link" href="#">Únete a nosotros</a>
+                    <a  id='textoA' class="nav-link" href="#">Únete a nosotros</a>
                 </li>
                 <li id='barrita' class='nav-item'>
                     <p>|</p>
                 </li>
                 <li class="nav-item">
-                    <a class="nav-link active">Iniciar sesión</a>
+                    <a id='textoA' class="nav-link active">Iniciar sesión</a>
                 </li>
             </ul>
 

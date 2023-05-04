@@ -1,22 +1,37 @@
 #jordan{
     height: 25px;
-    width: 25px;
+    width: 30px;
     position : absolute;
     left: 50px;
-    top : 10px;
+    top : 6px;
+    opacity: 1;
+    transition: opacity 0.3s ease;
+}
+
+#jordan:hover {
+  opacity: 0.5;
 }
 
 #converse{
-    height: 25px;
-    width: 30px;
+    height: 20px;
+    width: 35px;
     position : absolute;
     left: 85px;
-    top : 10px;
+    top : 8px;
+    opacity: 1;
+    transition: opacity 0.3s ease;
 }
 
+#converse:hover {
+  opacity: 0.5;
+}
+
+
+
 #barrita{
-    top: 5px;
+    top: 8px;
     position: relative;
+    font-size: 12px;
 }
 
 .nav-link{
@@ -25,6 +40,17 @@
 }
 
 #navDiv{
-    background-color: rgb(223, 217, 217);
+    background-color: #f5f5f5;
     
+}
+
+#textoA{
+    font-size: 12px;
+    color: black;
+    position: relative;
+    top: 2px;
+}
+
+#textoA:hover{
+    color: #b7b7b7;
 }
