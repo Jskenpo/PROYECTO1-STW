@@ -1,8 +1,12 @@
 import React from 'react';
+import NavBar from './navbar/navbar.js';
+
+
 class App extends React.Component {
     render() {
         return (
             <div>
+                <NavBar />
 
                 <div class="jumbotron">
                     <h1 class="display-4">Amazing React, Bootstrap and Webpack</h1>
