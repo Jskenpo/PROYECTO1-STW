@@ -10,6 +10,7 @@
 
 #jordan:hover {
   opacity: 0.5;
+  cursor: pointer;
 }
 
 #converse{
@@ -24,6 +25,7 @@
 
 #converse:hover {
   opacity: 0.5;
+  cursor: pointer;
 }
 
 

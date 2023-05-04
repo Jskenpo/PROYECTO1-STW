@@ -1,5 +1,6 @@
 import React from 'react';
 import NavBar from './navbar/navbar.js';
+import Buscador from './buscador-nav/buscador.js';
 
 
 class App extends React.Component {
@@ -7,6 +8,7 @@ class App extends React.Component {
         return (
             <div>
                 <NavBar />
+                <Buscador />
             </div>
         );
     }
