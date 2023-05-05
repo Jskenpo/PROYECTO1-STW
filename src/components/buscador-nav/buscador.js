@@ -5,7 +5,7 @@ import "./buscador.css";
 
 function Buscador() {
     return (
-        <nav class="navbar navbar-expand-lg ">
+        <nav id='navbarUno' class="navbar navbar-expand-lg ">
             <div class="container-fluid">
                 <img id='logo' src={nikeLogo} class='navbar-brand'></img>
                 <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
