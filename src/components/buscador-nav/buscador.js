@@ -1,5 +1,9 @@
 import React from "react";
 import nikeLogo from "../../imas/nike.jpg";
+import search from "../../imas/search.png";
+import like from "../../imas/heart.png";
+import bag from "../../imas/bag.png";
+
 
 import "./buscador.css";
 
@@ -31,10 +35,12 @@ function Buscador() {
                     </ul>
 
                     <form id='Form' class="d-flex" role="search">
-                        <input class="form-control me-2" type="search" placeholder="Search" aria-label="Search" />
-                        <button class="btn btn-outline-success" type="submit">Search</button>
+                        <input class="form-control me-2" type="search" placeholder="Buscar" aria-label="Search" />
+                        <button class="btn btn-outline-secondary" type="submit"><img id='searchlogo' src={search}></img></button>
                     </form>
 
+                    <button id='heart' type="button" class="btn btn-light"><img id='logosCompra'src={like}/></button>
+                    <button id='bag' type="button" class="btn btn-light"><img id='logosCompra'src={bag}/></button>
                 </div>
             </div>
         </nav>

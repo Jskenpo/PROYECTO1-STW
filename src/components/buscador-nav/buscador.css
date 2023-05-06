@@ -32,5 +32,26 @@
 }
 
 #Form{
-    margin-left: 130px;
+    margin-left: 60px;
+}
+
+#searchlogo{
+    width: 20px;
+    height: 20px;
+    cursor: pointer;
+}
+
+#logosCompra{
+    width: 20px;
+    height: 20px;
+}
+
+#heart{
+    border-radius: 50px;
+    margin-left: 5px;
+    margin-right: 5px;
+}
+
+#bag{
+    border-radius: 50px;
 }
