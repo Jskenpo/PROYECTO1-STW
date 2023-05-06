@@ -1,0 +1,49 @@
+#ListaApp{
+    list-style: none;
+    padding: 0;
+    margin: 0;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    align-content: center;
+}
+
+#ListaApp li{
+    margin: 0 30px;
+    cursor: pointer;
+}
+
+#textoImagen-app{
+    width: 400px;
+    position: absolute;
+    color: white;
+    margin-top: -155px;
+    margin-left: 50px;
+}
+
+#buttonAplicaciones{
+    position: absolute;
+    margin-left: 50px;
+    margin-top: -80px;
+}
+
+#buttonApp{
+    
+    border-radius: 20px;
+}
+
+#aplicaciones{
+    margin-top:30px;
+
+}
+
+#tituloAplicaciones{
+    margin-left: 30px;
+    margin-bottom: 30px;
+    font-size: 30px;
+    font-weight: bold;
+}
+
+.imagenApp{
+    cursor: pointer;
+}

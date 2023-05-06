@@ -1,0 +1,15 @@
+#carrouselDeportes{
+    position: relative;
+    margin-top: 30px;
+}
+
+#tituloDeportes{
+    margin-left: 50px;
+    margin-bottom: 30px;
+    font-size: 30px;
+    font-weight: bold;
+}
+
+.imagenDeporte{
+    cursor: pointer;
+}
