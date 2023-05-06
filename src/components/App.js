@@ -8,6 +8,7 @@ import Trend from './tendencias/trend.js';
 import Descubrir from './Descubrir/descubrir.js';
 import Deportes from './Deportes/deportes.js';
 import Aplicaciones from './Aplicaciones/aplicaciones.js';
+import Member from './Membership/membership.js';
 
 
 import './App.css';
@@ -26,6 +27,7 @@ class App extends React.Component {
                 <Descubrir />
                 <Deportes />
                 <Aplicaciones />
+                <Member />
             </div>
         );
     }

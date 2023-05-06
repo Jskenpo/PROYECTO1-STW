@@ -1,0 +1,10 @@
+#tituloMember{
+    margin-left: 50px;
+    margin-bottom: 30px;
+    font-size: 30px;
+    font-weight: bold;
+}
+
+.imagenMember{
+    cursor: pointer;
+}
