@@ -5,6 +5,10 @@ import Info from './carrouselUno/Info.js';
 import Danza from './Danza/Danza.js';
 import Zapas from './carrouselDos/zapatos.js';
 import Trend from './tendencias/trend.js';
+import Descubrir from './Descubrir/descubrir.js';
+
+
+import './App.css';
 
 
 class App extends React.Component {
@@ -17,6 +21,7 @@ class App extends React.Component {
                 <Danza />
                 <Zapas />
                 <Trend />
+                <Descubrir />
             </div>
         );
     }

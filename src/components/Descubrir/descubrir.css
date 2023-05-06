@@ -1,0 +1,61 @@
+#lista-descubrir{
+    list-style: none;
+    padding: 0;
+    margin: 0;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    align-content: center;
+}
+#lista-descubrir li{
+    margin: 0 15px;
+    cursor: pointer;
+}
+
+#lista{
+    margin-top:30px;
+    margin-left:30px;
+}
+
+#tituloDescubrir{
+    margin-left: 10px;
+    margin-bottom: 30px;
+    font-size: 30px;
+    font-weight: bold;
+}
+
+#Li1B1{
+    position: absolute;
+    margin-left: 50px;
+    margin-top: -70px;
+}
+
+#Li1B2{
+    position: absolute;
+    margin-left: 130px;
+    margin-top: -70px;
+
+}
+
+#buttonD{
+    border-radius: 20px;
+}
+
+.commonB1{
+    position: absolute;
+    margin-left: 50px;
+    margin-top: -115px;
+}
+
+.commonB2{
+    position: absolute;
+    margin-left: 50px;
+    margin-top: -70px;
+}
+
+.imagenDescubrir{
+    height: 25px;
+    width: 25px;
+    margin-right: 5px;
+    margin-left: 10px;
+}
