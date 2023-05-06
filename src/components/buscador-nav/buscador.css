@@ -1,13 +1,36 @@
 #navbarUno{
     width: 100%;
+    background-color: white;
 }
 
 #logo{
     width: 60px;
     height: 50px;
-    
+    margin-left: 30px;
+    cursor: pointer;
+    opacity: 1;   
 }
 
+#logo:hover{
+    opacity: 0.5;
+}
+
+
 #contenidos{
-    left:300;
+    margin-left:300px;
+}
+
+#contenidos li{
+    display: inline-block;
+    
+    color: #000000;
+    text-decoration: none;
+}
+
+#contenidos li:hover{
+    border-bottom: 2px solid #000000;
+}
+
+#Form{
+    margin-left: 130px;
 }
