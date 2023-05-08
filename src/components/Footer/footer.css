@@ -1,0 +1,112 @@
+#footer{
+    margin-top: 50px;
+    height : 400px;
+    width: 100%;
+    background-color : #111111;
+}
+
+#footer-megalist{
+    margin-top: 100px;
+    list-style: none;
+    padding: 0;
+    margin: 0;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    align-content: center;
+}
+
+#contenedor{
+    
+    margin-left: 5px;
+}
+
+.ul-common{
+
+    margin-top: 50px;
+    list-style: none;
+}
+
+.ul-common1{
+    margin-top: -20px;
+    list-style: none;
+    margin-left: -200px;
+}
+
+.ul-common2{
+    margin-top: 35px;
+    list-style: none;
+    margin-left: -150px;
+}
+
+
+#tituloFooter{
+    font-family: Impact;
+    text-transform: uppercase;
+    font-size: 15px;
+    color: #ffffff;
+    cursor: pointer;
+}
+
+#textoFooter{
+    color: grey;
+    font-size: 12px;
+}
+
+#textoFooter:hover{
+    color: #ffffff;
+    cursor: pointer;
+}
+
+#Redes{
+    margin-top: -100px;
+    list-style: none;
+    display: flex;
+}
+
+.redes{
+    width: 25px;
+    height: 25px;
+    opacity: 0.5;
+}
+
+#Redes li{
+    margin: 0 15px;
+    cursor: pointer;
+}
+
+.redes:hover{
+    opacity: 1;
+    cursor: pointer;
+}
+
+.navitem{
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
+#imgLocation{
+    margin-top: -10px;
+    height: 15px;
+    width: 15px;
+}
+
+#textoFooterLoc{
+    color: white;
+    font-size: 12px;
+}
+
+#DR{
+    margin-left:30px
+}
+
+#Cookies{
+    color: grey;
+    font-size: 12px;
+    margin-left: 790px;
+}
+
+#Cookies:hover{
+    color: #ffffff;
+    cursor: pointer;
+}

@@ -9,6 +9,7 @@ import Descubrir from './Descubrir/descubrir.js';
 import Deportes from './Deportes/deportes.js';
 import Aplicaciones from './Aplicaciones/aplicaciones.js';
 import Member from './Membership/membership.js';
+import Footer from './Footer/footer.js';
 
 
 import './App.css';
@@ -28,6 +29,7 @@ class App extends React.Component {
                 <Deportes />
                 <Aplicaciones />
                 <Member />
+                <Footer />
             </div>
         );
     }

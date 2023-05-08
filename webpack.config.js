@@ -23,12 +23,6 @@ module.exports= {
     module: {
         rules: [
           {
-            test: /\.scss$/i,
-            use: [MiniCssExtractPlugin.loader,
-              'css-loader', 
-              'sass-loader'],
-          },
-          {
             test: /\.(png|jpe?g|gif)$/i,
             loader: 'file-loader',
             options: {
