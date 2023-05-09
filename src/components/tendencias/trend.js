@@ -9,7 +9,7 @@ import "swiper/css/scrollbar";
 
 // import required modules
 import { Scrollbar } from "swiper";
-import './trend.css';
+import './trend.scss';
 
 
 //images 

@@ -1,5 +1,5 @@
 import React from 'react';
-import './deportes.css';
+import './deportes.scss';
 import dp1 from '../../imas/deportes1.png';
 import dp2 from '../../imas/deportes2.png';
 import dp3 from '../../imas/deportes3.png';

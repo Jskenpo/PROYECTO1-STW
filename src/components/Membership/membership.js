@@ -6,7 +6,7 @@ import  M3 from "../../imas/member3.png";
 import  M4 from "../../imas/member4.png";
 import  M5 from "../../imas/member5.png";
 
-import "./membership.css";
+import "./membership.scss";
 import 'swiper/css';
 import 'swiper/css/navigation';
 import 'swiper/css/pagination';

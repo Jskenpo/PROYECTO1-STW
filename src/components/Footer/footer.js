@@ -5,7 +5,7 @@ import twit from '../../imas/twitter.png';
 import you from '../../imas/youtube.png';
 import loc from '../../imas/location.jpg';
 
-import './footer.css';
+import './footer.scss';
 
 function Footer() {
 

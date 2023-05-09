@@ -1,5 +1,5 @@
 import React from "react";
-import './Danza.css';
+import './Danza.scss';
 import danza from '../../imas/danza.png';
 
 function Danza() {

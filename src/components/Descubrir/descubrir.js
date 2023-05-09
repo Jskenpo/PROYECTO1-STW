@@ -1,5 +1,5 @@
 import  React  from "react";
-import './descubrir.css';
+import './descubrir.scss';
 
 import d1 from '../../imas/descubrir1.png';
 import d2 from '../../imas/descubrir2.png';

@@ -5,7 +5,7 @@ import z3 from "../../imas/zapatos3.png";
 import z4 from "../../imas/zapatos4.png";
 import z5 from "../../imas/zapatos5.png";
 
-import "./zapatos.css";
+import "./zapatos.scss";
 import 'swiper/css';
 import 'swiper/css/navigation';
 import 'swiper/css/pagination';

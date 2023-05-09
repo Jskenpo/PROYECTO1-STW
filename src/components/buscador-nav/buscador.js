@@ -5,7 +5,7 @@ import like from "../../imas/heart.png";
 import bag from "../../imas/bag.png";
 
 
-import "./buscador.css";
+import "./buscador.scss";
 
 function Buscador() {
     return (

@@ -12,7 +12,7 @@ import Member from './Membership/membership.js';
 import Footer from './Footer/footer.js';
 
 
-import './App.css';
+import './App.scss';
 
 
 class App extends React.Component {

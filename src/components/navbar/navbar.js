@@ -1,7 +1,7 @@
 import React from "react";
 import jordan from "../../imas/jordan.png";
 import converse from "../../imas/Converse-logo.png";
-import "./navbar.css";
+import "./navbar.scss";
 
 function NavBar() {
     return (

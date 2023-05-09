@@ -4,7 +4,7 @@ import app1 from '../../imas/aplicaciones1.png';
 import app2 from '../../imas/aplicaciones2.png';
 
 
-import './aplicaciones.css';
+import './aplicaciones.scss';
 
 function Aplicaciones() {
 
