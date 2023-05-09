@@ -4,7 +4,7 @@
 
 # REPICACIÓN DE PÁGINA WEB (PROYECTO 1)
 
-##Introducción
+## Introducción
 Este proyecto trata de replicar una página identicanmente mediannte una aplicación de react. Como soporte para este framework se utilizó webpack para poder compilar el entorno y babel para hacerlo accesisble a diferentes navegadores y diferentes versiones de javascript.
 
 Adicionalemnte para el diseño se utilizó la librería de bootstrap y swiperJs para elementos de diseño dentro del proyecto tales como los navigation bars, los crrouseles y las listas.
