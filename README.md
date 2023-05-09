@@ -4,7 +4,12 @@
 
 # REPICACIÓN DE PÁGINA WEB (PROYECTO 1)
 
-## Feautures
+##Introducción
+Este proyecto trata de replicar una página identicanmente mediannte una aplicación de react. Como soporte para este framework se utilizó webpack para poder compilar el entorno y babel para hacerlo accesisble a diferentes navegadores y diferentes versiones de javascript.
+
+Adicionalemnte para el diseño se utilizó la librería de bootstrap y swiperJs para elementos de diseño dentro del proyecto tales como los navigation bars, los crrouseles y las listas.
+
+## Tecnologías utilizadas
 
 <ul>
     <li>
@@ -20,12 +25,18 @@
         <img src="./src/imas/babel.png" style= "width: 30px; height: auto;"/> Babel
     </li>
     <li>
-        <img src="./src/imas/swiper.png" style= "width: 30px; height: auto;"/> Material UI
+        <img src="./src/imas/swiper.png" style= "width: 30px; height: auto;"/> SwiperJs
     </li>
 <ul>
 
-## Getting started
-
+## Utiliza el proyecto
+1. Clona este repositorio con el siguiente enlace : 'https://github.com/Jskenpo/PROYECTO1-STW.git'
+    <br>
+2. Al clonar el repositorio abre una terminal en cosola y digrígete hacia la carpeta en donde colnaste el repositorio 
+    <br>
+3. Utiliza el comando 'npm install' para instalar todas las dependencias especificadas en el package.JSON
+    <br>
+4. Seguidamente utiliza el comando 'npm run start' para poder ver el resultado final del proyecto
 
 
 ## Commands
