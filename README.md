@@ -40,8 +40,8 @@ Adicionalemnte para el diseño se utilizó la librería de bootstrap y swiperJs 
 
 
 ## Comandos útiles
-    `npm run start` crea un entrono de ejecucion de webpack que se actualiza en tiempo real, creando un dist virtual y alojandolo en el servidor local configurado.
-    `npm run start-webpack` crea una parqueta dist_react en donde se alojarán los archivos comprimidos de todo el proyecto en un index.html y un main.bundle.js, para poder usar         la aplicacion tienes que abrir el index.html en un servidor local.
+`npm run start` crea un entrono de ejecucion de webpack que se actualiza en tiempo real, creando un dist virtual y alojandolo en el servidor local configurado.
+`npm run start-webpack` crea una parqueta dist_react en donde se alojarán los archivos comprimidos de todo el proyecto en un index.html y un main.bundle.js, para poder usar         la aplicacion tienes que abrir el index.html en un servidor local.
 
 
 ## Especificaciones de la página
