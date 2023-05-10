@@ -9,7 +9,7 @@ Este proyecto trata de replicar una página identicanmente mediannte una aplicac
 <br>
 Adicionalemnte para el diseño se utilizó la librería de bootstrap y swiperJs para elementos de diseño dentro del proyecto tales como los navigation bars, los crrouseles y las listas.
 <br>
-Este proyecto es una réplica de la página nike.com/es
+Este proyecto es una réplica de la página https://www.nike.com/es/
 
 
 ## Tecnologías utilizadas
