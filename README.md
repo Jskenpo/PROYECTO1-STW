@@ -17,24 +17,45 @@ Este proyecto es una réplica de la página nike.com/es
 <ul>
     <li>
         <img src="./src/imas/react.png" style= "width: 30px; height: auto;"/> React
+        <br>
+        Documentación 
+        https://legacy.reactjs.org/docs/getting-started.html
     </li>
     <li>
         <img src="./src/imas/bootstrap.png" style= "width: 30px; height: auto;"/> Bootstrap
+        <br>
+        Documentación
+        https://getbootstrap.com/docs/4.1/getting-started/introduction/
     </li>
     <li>
         <img src="./src/imas/webpack.png" style= "width: 30px; height: auto;"/> Webpack
+        <br>
+        Documentación
+        https://webpack.js.org/concepts/
     </li>
     <li>
         <img src="./src/imas/babel.png" style= "width: 30px; height: auto;"/> Babel
+        <br>
+        Documentación
+        https://babeljs.io/docs/usage
     </li>
     <li>
         <img src="./src/imas/swiper.png" style= "width: 30px; height: auto;"/> SwiperJs
+        <br>
+        Documentación
+        https://swiperjs.com/get-started
     </li>
     <li>
-        <img src=".src/imas/firebase.png" style= "width: 30px; height: auto;"/> Firebase
+        <img src="./src/imas/firebase.png" style= "width: 30px; height: auto;"/> Firebase
+        <br>
+        Documentación
+        https://firebase.google.com/docs?hl=es-419
     </li>
     <li>
-        <img src=".src/imas/sass.png" style= "width: 30px; height: auto;"/> Sass, Scss
+        <img src="./src/imas/sass.png" style= "width: 30px; height: auto;"/> Sass, Scss
+        <br>
+        Documentación
+        https://sass-lang.com/documentation/
     </li>
 <ul>
 
