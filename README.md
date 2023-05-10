@@ -85,6 +85,9 @@ Este proyecto es una réplica de la página https://www.nike.com/es/
 `npm run start-webpack` crea una parqueta dist_react en donde se alojarán los archivos comprimidos de todo el proyecto en un index.html y un main.bundle.js, para poder usar         la aplicacion tienes que abrir el index.html en un servidor local.
 
 ## Link de página web 
+Si quieres ver el resultado del proyecto, puedes visitar el siguiente link:
+    <br>
+    <br>
 https://api-stw-p1.web.app
 ## Estructura de proyecto
   <ul>
