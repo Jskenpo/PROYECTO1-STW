@@ -6,8 +6,11 @@
 
 ## Introducción
 Este proyecto trata de replicar una página identicanmente mediannte una aplicación de react. Como soporte para este framework se utilizó webpack para poder compilar el entorno y babel para hacerlo accesisble a diferentes navegadores y diferentes versiones de javascript.
-
+<br>
 Adicionalemnte para el diseño se utilizó la librería de bootstrap y swiperJs para elementos de diseño dentro del proyecto tales como los navigation bars, los crrouseles y las listas.
+<br>
+Este proyecto es una réplica de la página nike.com/es
+
 
 ## Tecnologías utilizadas
 
@@ -27,6 +30,12 @@ Adicionalemnte para el diseño se utilizó la librería de bootstrap y swiperJs 
     <li>
         <img src="./src/imas/swiper.png" style= "width: 30px; height: auto;"/> SwiperJs
     </li>
+    <li>
+        <img src=".src/imas/firebase.png" style= "width: 30px; height: auto;"/> Firebase
+    </li>
+    <li>
+        <img src=".src/imas/sass.png" style= "width: 30px; height: auto;"/> Sass, Scss
+    </li>
 <ul>
 
 ## Utiliza el proyecto
@@ -41,8 +50,8 @@ Adicionalemnte para el diseño se utilizó la librería de bootstrap y swiperJs 
 
 ## Comandos útiles
 `npm run start` crea un entrono de ejecucion de webpack que se actualiza en tiempo real, creando un dist virtual y alojandolo en el servidor local configurado.
+    <br>
 `npm run start-webpack` crea una parqueta dist_react en donde se alojarán los archivos comprimidos de todo el proyecto en un index.html y un main.bundle.js, para poder usar         la aplicacion tienes que abrir el index.html en un servidor local.
-
 
 ## Especificaciones de la página
 
