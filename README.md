@@ -74,7 +74,9 @@ Este proyecto es una réplica de la página https://www.nike.com/es/
    ## Ejemplo de componente SwiperJS
    <br>
    <br>
-   El ejemplo esta basado en un componente utilizado en el proyecto
+   El ejemplo esta basado en un componente utilizado en el proyecto, y adicionalmente se tienen que importar las lisbrerías correspondientes, las cuales puedes revisar en la documentación indicada anteriormente 
+    <br>
+    <br>
 
 
         <div id='slider'>
