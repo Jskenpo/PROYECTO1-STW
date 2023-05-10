@@ -111,7 +111,7 @@ https://api-stw-p1.web.app
       <li>
           <a href='./dist_react'>dist_react</a>
           <br>
-          Es la compilación de entorno de ejecución webpack en donde se aloja el proyecto completo en solo dos archios, los cuales son index.html y main.bundle.js
+          Es la compilación de entorno de ejecución webpack en donde se aloja el proyecto completo en solo dos archivos, los cuales son index.html y main.bundle.js. Adicionalmente se encuentra una carpeta 'imágenes' en donde se almacenan todos los archivos multimedia
       </li>
   </ul>
 
