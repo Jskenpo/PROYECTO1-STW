@@ -85,18 +85,33 @@ Este proyecto es una réplica de la página https://www.nike.com/es/
 `npm run start-webpack` crea una parqueta dist_react en donde se alojarán los archivos comprimidos de todo el proyecto en un index.html y un main.bundle.js, para poder usar         la aplicacion tienes que abrir el index.html en un servidor local.
 
 ## Link de página web 
-    https://api-stw-p1.web.app
+https://api-stw-p1.web.app
 ## Estructura de proyecto
-    <ul>
-        <li>
-            **Proyecto1-STW**
-            <br>
-            En este se alojan todas las configuraciones del proyecto, de misma manera aquí mismo se crea el dist de webpack.
-            
-        </li>
-        <li>
-            **<a href='./src'>src</a>**
-            Es la carpeta en la que se alojan todos los componentes y sus estilos, los archivos multimedia que utiliza el proyecto y el index.js en el que se renderiza la aplicación de React
-        </li>
-    </ul>
+  <ul>
+      <li>
+          Proyecto1-STW
+          <br>
+          En este se alojan todas las configuraciones del proyecto, de misma manera aquí mismo se crea el dist de webpack     
+      </li>
+      <li>
+          <a href='./src'>src</a>
+          <br>
+          Es la carpeta en la que se alojan todos los componentes y sus estilos, los archivos multimedia que utiliza el proyecto y el index.js en el que se renderiza la aplicación de React
+      </li>
+      <li>
+          <a href='./src/imas'>imas</a>
+          <br>
+          Carpeta en donde están todos los archivos multimedia que se utilizan en el proyecto
+      </li>
+      <li>
+          <a href='./src/components'>Components</a>
+          <br>
+          Carpeta en donde se alojan todos loc componentes de react
+      </li>
+      <li>
+          <a href='./dist_react'>dist_react</a>
+          <br>
+          Es la compilación de entorno de ejecución webpack en donde se aloja el proyecto completo en solo dos archios, los cuales son index.html y main.bundle.js
+      </li>
+  </ul>
 
