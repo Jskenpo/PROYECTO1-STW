@@ -19,42 +19,49 @@ Este proyecto es una réplica de la página nike.com/es
         <img src="./src/imas/react.png" style= "width: 30px; height: auto;"/> React
         <br>
         Documentación 
+        <br>
         https://legacy.reactjs.org/docs/getting-started.html
     </li>
     <li>
         <img src="./src/imas/bootstrap.png" style= "width: 30px; height: auto;"/> Bootstrap
         <br>
         Documentación
+        <br>
         https://getbootstrap.com/docs/4.1/getting-started/introduction/
     </li>
     <li>
         <img src="./src/imas/webpack.png" style= "width: 30px; height: auto;"/> Webpack
         <br>
         Documentación
+        <br>
         https://webpack.js.org/concepts/
     </li>
     <li>
         <img src="./src/imas/babel.png" style= "width: 30px; height: auto;"/> Babel
         <br>
         Documentación
+        <br>
         https://babeljs.io/docs/usage
     </li>
     <li>
         <img src="./src/imas/swiper.png" style= "width: 30px; height: auto;"/> SwiperJs
         <br>
         Documentación
+        <br>
         https://swiperjs.com/get-started
     </li>
     <li>
         <img src="./src/imas/firebase.png" style= "width: 30px; height: auto;"/> Firebase
         <br>
         Documentación
+        <br>
         https://firebase.google.com/docs?hl=es-419
     </li>
     <li>
         <img src="./src/imas/sass.png" style= "width: 30px; height: auto;"/> Sass, Scss
         <br>
         Documentación
+        <br>
         https://sass-lang.com/documentation/
     </li>
 <ul>
@@ -71,6 +78,7 @@ Este proyecto es una réplica de la página nike.com/es
 
 ## Comandos útiles
 `npm run start` crea un entrono de ejecucion de webpack que se actualiza en tiempo real, creando un dist virtual y alojandolo en el servidor local configurado.
+    <br>
     <br>
 `npm run start-webpack` crea una parqueta dist_react en donde se alojarán los archivos comprimidos de todo el proyecto en un index.html y un main.bundle.js, para poder usar         la aplicacion tienes que abrir el index.html en un servidor local.
 
